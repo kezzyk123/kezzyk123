@@ -12,6 +12,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/kezia-m-25388a150/**
 
 <h3 align="left">Connect with me:</h3>
+<p> Linkedln </p>
 <p align="left">
 </p>
 
