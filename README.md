@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kezzyk123](https://github.com/kezzyk123)
 
-- 📝 I have knowledge in [machine learning and deep learning](machine learning and deep learning)
+- 📝 I have knowledge in [machine learning and deep learning]
 
 - 📫 How to reach me **https://www.linkedin.com/in/kezia-m-25388a150/**
 
