@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm KEZIA!!</h1>
 <h3 align="center">Aspiring software developer 👩‍💻</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Inside and outs of Machine Learning**
 
 - 🤝 I’m looking for more **full-stack project ideas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kezzyk123](https://github.com/kezzyk123)
 
-- 📝 I have knowledge in [machine learning and deep learning]
+- 📝 I have knowledge in [generative AI, web development, and virtual environments(virtualization)]
 
 - 📫 How to reach me **https://www.linkedin.com/in/kezia-m-25388a150/**
 
