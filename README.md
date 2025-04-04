@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KEZIA!!</h1>
-<h3 align="center">Aspiring software developer 👩‍💻</h3>
+<h3 align="center">👩‍💻</h3>
 
 - 🌱 I’m currently learning **Inside and outs of Machine Learning**
 
