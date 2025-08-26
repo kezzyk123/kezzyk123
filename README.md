@@ -19,7 +19,7 @@
 <h2> Software Development Projects:<br></h2>
 
   - <b>Website Creation</b>
-    - [Meal Planner App](https://github.com/kezzyk123/basic_car_dealership)  <i>PHP, Javascript,MySql</i>
+    - [Meal Planner App](https://github.com/kezzyk123/CSIS3126_Makor)  <i>PHP, Javascript,MySql</i>
     - [Simple Car Dealership Website](https://github.com/kezzyk123/basic_car_dealership)  <i>html, css</i>
     
   - <b>Software Testing</b>
