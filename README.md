@@ -20,7 +20,8 @@
 
   - <b>Website Creation</b>
     - [Meal Planner App](https://github.com/kezzyk123/CSIS3126_Makor)  <i>PHP, Javascript,MySql</i>
-    - [Simple Car Dealership Website](https://github.com/kezzyk123/basic_car_dealership)  <i>html, css</i>
+    - [Car Dealership Website](https://github.com/kezzyk123/basic_car_dealership)  <i>html, css</i>
+    - [To-Do List API](https://github.com/kezzyk123/todo_list_API) <i>fastAPI</i>
     
   - <b>Software Testing</b>
     - [Selenium Testing with a Bank App](https://github.com/kezzyk123/BankApp)
