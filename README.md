@@ -5,7 +5,7 @@
 <h2> Cybersecurity Labs:</h2>
 
 - <b>Security Ticketing, SIEM Implementation and Log Analysis (Cybrary)</b>
-  - [Security Ticketing]https://github.com/kezzyk123/Ticketing-System
+  - [Security Ticketing](https://github.com/kezzyk123/Ticketing-System)
 - <b>Network Security</b>
   - 
 - <b>Active Directory</b>
