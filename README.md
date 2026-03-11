@@ -10,27 +10,9 @@
   - 
 - <b>Active Directory</b>
   -
-- <b>Vulnerability Scanning with Nmap</b>
   -
 - <b>TryHackMe Projects/CTF</b>
   - 
-
-<img width="50" height="50" src="https://img.icons8.com/ios/50/imac-settings.png" alt="imac-settings"/>
-<h2> Software Development Projects:<br></h2>
-
-  - <b>Website Creation</b>
-    - [Meal Planner App](https://github.com/kezzyk123/CSIS3126_Makor)  <i>PHP, Javascript,MySql</i>
-    - [Car Dealership Website](https://github.com/kezzyk123/basic_car_dealership)  <i>html, css</i>
-    - [To-Do List API](https://github.com/kezzyk123/todo_list_API) <i>fastAPI</i>
-    
-  - <b>Software Testing</b>
-    - [Selenium Testing with a Bank App](https://github.com/kezzyk123/BankApp)
-
-  - <b>Python</b>
-    - [CRUD Contact Book](https://github.com/kezzyk123/contact-book)
-    
-    
-
 
 
 <h2> 🤳 Connect with me:</h2>
