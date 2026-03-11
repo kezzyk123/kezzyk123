@@ -4,7 +4,7 @@
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/security-shield-green.png" alt="security-shield-green"/>
 <h2> Cybersecurity Labs:</h2>
 
-- <b>Security Ticketing, SIEM Implementation and Log Analysis (Cybrary)</b>
+- <b>Security Ticketing, SIEM Implementation and Log Analysis</b>
   - [Security Ticketing](https://github.com/kezzyk123/Ticketing-System)
 - <b>Network Security</b>
   - 
